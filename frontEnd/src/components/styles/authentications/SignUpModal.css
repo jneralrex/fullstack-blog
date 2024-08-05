@@ -1,0 +1,164 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.modal-outter{
+    width: 100%;
+    background-color: rgb(140,140,141, 0.2);
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 99;
+    position: fixed;
+    overflow-y: auto;
+
+}
+.modal-inner {
+    width: 500px;
+    min-height: 600px;
+    background-color: rgb(255,255,255);
+    left: 30%;
+    top: 0;
+    bottom: 0;
+    border-radius: 20px;
+    margin: 20px auto;
+}
+.close-modal{
+    height: 32px;
+    width: 32px;
+    border-radius: 50px;
+    background-color: rgb(229,235,238);}
+.form-area{
+    align-content: center;
+    margin: 10px;
+
+}
+.form-block{
+    margin-top: 20px;
+    border-radius: 10px;
+    display: block;
+}
+.form-input{
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(229,235,238);
+    padding: 10px;
+}
+.form-input::placeholder{
+    text-align: left;
+}
+.action-title{
+    font-size: 27px;
+    font-weight: 800;
+    left: 8%;
+    position: relative;
+    margin-bottom: 10px;
+    top: 30px;
+}
+.t-and-c{
+    width: 80%;
+    font-size: 14px;
+    left: 8%;
+    position: relative;
+    line-height: 20px;
+    top: 30px;
+}
+span{
+    color: rgb(79,110,191);
+} */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.modal-outter{
+    width: 100%;
+    background-color: rgb(0, 0, 0, 0.2);
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 999;
+    position: fixed;
+    overflow-y: auto;
+
+}
+.modal-inner{
+    width: 500px;
+    background-color: rgb(255,255,255);
+    height: 100vh;
+    position: fixed;
+    left: 30%;
+    border-radius: 20px; 
+    top: 0;
+    bottom: 0;
+}
+.close-modal{
+    height: 32px;
+    width: 32px;
+    border-radius: 50px;
+    left: 89%;
+    top: 2%;
+    position: relative;
+    background-color: rgb(229,235,238);}
+.form-area{
+    height: 90vh;
+    align-content: center;
+    margin: -50px;
+}
+.form-block{
+    margin-top: 20px;
+    width: 70%;
+    left: 15%;
+    position: relative;
+    border-radius: 10px;
+    display: block;
+}
+.form-input{
+    height: 50px;
+    width: 100%;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(229,235,238);
+    padding: 10px;
+    color: black;
+
+}
+.form-input::placeholder{
+    text-align: left;
+    color: black;
+
+}
+.action-title{
+    font-size: 27px;
+    font-weight: 800;
+    left: 8%;
+    position: relative;
+    margin-bottom: 10px;
+    top: 30px;
+    color: black;
+}
+.t-and-c{
+    width: 80%;
+    font-size: 14px;
+    left: 8%;
+    position: relative;
+    line-height: 20px;
+    top: 30px;
+}
+span{
+    color: rgb(79,110,191);
+    cursor: pointer;
+}
+.login-route{
+    width: 185px;
+    display: flex;
+    margin-left: 37px;
+    justify-content: space-between;
+    font-size: 13px;
+}

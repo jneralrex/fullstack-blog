@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* .splitter{
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+    overflow: hidden;
+} */
+a{
+    text-decoration: none !important;
+    color: #000 !important;;
+}
+
+.post-holder-outter {
+    max-width: 600px;
+    border-bottom: 1px solid rgb(229,229,229);
+    padding: 7px;
+}
+
+.post-holder-inner {
+    min-height: 100px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.post-holder-inner:hover {
+    min-height: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(229,235,238, 0.4);
+}
+
+.user-details-holder {
+    display: flex;
+    color: black;
+    font-size: 12px;
+    justify-content: space-between;
+}
+
+.user-profile-pics {
+    border: 1px solid brown;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+
+.details-outter {
+    display: flex;
+    justify-content: space-between;
+}
+.join{
+    align-content: center;
+}
+
+.details-inner {
+    display: flex;
+    margin: 5px;
+}
+
+.caption-title {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: black;
+    font-size: 20px;
+}
+
+.post-text {
+    color: rgb(51,61,66);
+    font-size: 13px;
+    line-height: 18px;
+}
+
+
+.interractions {
+    display: flex;
+}
+
+.interractions-btns {
+    padding: 5px;
+    height: 30px;
+    width: 70px;
+    margin-right: 20px;
+    border-radius: 50px;
+    background-color: rgb(229,235,238);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.interractions-btns>p{
+    text-align: center;
+    margin: 2px auto;
+    font-size: 12px;
+}
+
+
+.post-side-outter{
+    width: 250px;
+    background-color: rgb(229,235,238, 0.4);
+    height: 87vh;
+    border: 1px solid black;
+    position: fixed;
+    right: 0;
+    top: 0;
+    margin-top: 70px;
+    margin-right: 20px;
+}
+
+.post-card-img {
+    width: 100%; /* Make the image responsive */
+    max-width: 600px; /* Set a maximum width */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Ensure the image covers the container */
+    border-radius: 8px; /* Optional: round the corners */
+    align-items: center;
+    margin: 20px auto;
+  }

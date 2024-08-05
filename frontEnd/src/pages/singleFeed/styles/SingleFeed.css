@@ -1,0 +1,247 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.comment-input {
+    margin-left: 60px;
+}
+
+.feed-post-holder-outter {
+    margin-left: 40px;
+    width: 60%;
+    padding: 7px;
+}
+
+.feed-post-holder-inner {
+    min-height: 100px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.feed-post-holder-inner:hover {
+    min-height: 100px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: rgb(229, 235, 238, 0.4);
+}
+
+.feed-user-details-holder {
+    display: flex;
+    color: black;
+    font-size: 12px;
+    justify-content: space-between;
+}
+
+.feed-user-profile-pics {
+    border: 1px solid brown;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+
+.feed-details-outter {
+    display: flex;
+    justify-content: space-between;
+}
+
+.feed-join {
+    align-content: center;
+}
+
+.feed-details-inner {
+    display: flex;
+    margin: 5px;
+}
+
+.feed-caption-title {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: black;
+    font-size: 20px;
+}
+
+.feed-post-text {
+    color: rgb(51, 61, 66);
+    font-size: 13px;
+    line-height: 18px;
+    margin-bottom: 10px;
+}
+
+/* .caption-title {
+    width: 100%; 
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  
+  .post-text {
+    width: 100%; 
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 6; 
+    -webkit-box-orient: vertical;
+  } */
+
+.feed-interractions {
+    display: flex;
+}
+
+.feed-interractions-btns {
+    padding: 5px;
+    height: 30px;
+    width: 70px;
+    margin-right: 20px;
+    border-radius: 50px;
+    background-color: rgb(229, 235, 238);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.feed-interractions-btns>p {
+    text-align: center;
+    margin: 2px auto;
+    font-size: 12px;
+}
+
+.comment-btn {
+    width: 99px;
+    margin-left: 431px;
+    margin-top: 10px;
+    padding: 1px;
+    background-color: rgb(226, 222, 222);
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.comment-btn:hover {
+    width: 99px;
+    margin-left: 431px;
+    margin-top: 10px;
+    padding: 1px;
+    background-color: rgb(226, 222, 222);
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+.dropbtn {
+    position: relative;
+    font-size: 16px;
+    border: none;
+    margin-top: 20px;
+    margin-left: 200px;
+    right: 10px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    max-width: 160px;
+    right: 0;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdown-content div {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content div:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: none;
+}
+
+.comment-area{
+    margin-left: 20px;
+}
+.comment-post-holder-outter {
+    margin-left: 40px;
+    width: 60%;
+    padding: 7px;
+}
+
+.profile-area {
+    display: flex;
+    align-items: center;
+}
+
+
+.comment-user-profile-pics {
+    border: 1px solid brown;
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    margin-left: -14.5px;
+    margin-bottom: 3px;
+}
+
+.comment-username {
+    margin-left: 10px;
+    font-size: 14px;
+    color: black;
+}
+
+.dot {
+    margin: 5px;
+}
+
+.comment-post-time {
+    font-size: 14px;
+    color: black;
+}
+
+.comment-post-holder-inner {
+    min-height: 50px;
+    padding: 10px;
+    border-radius: 0px 15px 15px 15px;
+    border-left: 1px solid black;
+}
+
+.comment-post-text {
+    color: rgb(51, 61, 66);
+    font-size: 13px;
+    line-height: 18px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+.comment-interractions {
+    display: flex;
+}
+
+.comment-interractions-btns {
+    padding: 5px;
+    height: 30px;
+    width: 70px;
+    margin-right: 20px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.comment-interractions-btns>p {
+    text-align: center;
+    margin: 2px auto;
+    font-size: 12px;
+}

@@ -1,0 +1,778 @@
+{
+  "signUp": [
+    {
+      "id": "5d27",
+      "full_name": "vv",
+      "email": "boy@gmail.com",
+      "phoneNumber": "",
+      "password": "123456"
+    }
+  ],
+  "createPost": [
+    {
+      "id": "ba9r",
+      "title": "Politics",
+      "text": "It's on record that our presidential jets have an average age of 12 years, purchased when most Nigerians could afford basic necessities. Now, as our country faces significant challenges, including a high debt profile, our citizens are in even greater need."
+    },
+    {
+      "id": "98d4",
+      "title": "Politics",
+      "text": "Instead of adding to our luxuries, we should be focused on alleviating their suffering and finding solutions to their problems. For long, our bad leadership has made our priorities, as leaders, to be at variance to the needs of society, which is why we are headed now south,",
+      "time_Posted": "2024-06-18T08:24:38.747Z"
+    },
+    {
+      "id": "4f35",
+      "title": "Cant enjoy YouTube without an add blocker",
+      "text": "I try to enjoy music, but just as the beat's about to drop, I get an ad. I want to listen to my favorite songs in peace, but I keep getting ads. When I watch scary videos, an ad appears right before the jump scare. If I’m searching for a specific sound effect for editing, there’s a 30-second ad for every video I click on, even though the videos are less than 10 seconds long.  I can't study or work in peace anymore because I have to keep skipping ads that don’t interest me. \"Personalized ads\"? My ass! this feel like YouTube is personally trying to annoy me with content I dislike. And don't get me started on trying to listen to sleep audios to help me sleep, only to be woken up by the loudest, most obnoxious ads.",
+      "time_Posted": 9
+    },
+    {
+      "id": "1c7f",
+      "title": "f",
+      "text": "f",
+      "time_Posted": 9
+    },
+    {
+      "id": "3be1",
+      "title": "ff",
+      "text": "ff",
+      "time_Posted": 9
+    },
+    {
+      "id": "e0d6",
+      "title": "Hello",
+      "text": "I am with Flow my guy",
+      "time_Posted": 14
+    }
+  ],
+  "comment": [
+    {
+      "id": "aa41",
+      "comment": "hi",
+      "time_Posted": 9,
+      "postId": "ba9r"
+    }
+  ],
+  "admin": [
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "a",
+      "last_name": "b",
+      "staff_id": "c",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "a",
+      "last_name": "b",
+      "staff_id": "c",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    },
+    {
+      "id": "8fa4",
+      "first_name": "Abubakar",
+      "last_name": "Idah",
+      "staff_id": "0457b",
+      "work_email": "abubakar@reddit.com",
+      "phone_number": "08175225016",
+      "password": "123456"
+    },
+    {
+      "id": "d698",
+      "first_name": "David",
+      "last_name": "Camson",
+      "staff_id": "124dbb",
+      "work_email": "david@reddit.com",
+      "phone_number": "0123544",
+      "password": "123456"
+    },
+    {
+      "id": "50c4",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "1322",
+      "work_email": "mmm@fffffffff",
+      "phone_number": "666666666666",
+      "password": "322222"
+    },
+    {
+      "id": "6867",
+      "first_name": "d",
+      "last_name": "d",
+      "staff_id": "d",
+      "work_email": "mmm@vbnmm",
+      "phone_number": "d",
+      "password": "66565325623"
+    },
+    {
+      "id": "77a2",
+      "first_name": "a",
+      "last_name": "b",
+      "staff_id": "c",
+      "work_email": "mmm@ggggg",
+      "phone_number": "mmm",
+      "password": "213333333333"
+    }
+  ]
+}

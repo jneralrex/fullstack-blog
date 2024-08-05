@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.accordion-title{
+    font-size: 12px;
+    font-weight: 300;
+    margin-left: 10px;
+    color:  rgb(87,111,118);
+}
+.accordion1-inner{
+    display: flex;
+    justify-content: space-evenly;
+}
+ 

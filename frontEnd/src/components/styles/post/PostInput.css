@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.text-form{
+    display: block;
+}
+.input-box{
+    margin-bottom: 70px;
+}
+.file-placeHolder{
+    font-size: 10px;
+}
+.submit-btn{
+width: 70px;
+margin-left: 470px;    
+margin-top: 10px;
+padding: 1px;
+background-color: rgb(226, 222, 222);
+border-radius: 50px;
+margin-bottom: 5px;
+}
+a{
+    text-decoration: none !important;
+    color: #000;
+}
